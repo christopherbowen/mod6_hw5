@@ -18,6 +18,7 @@ float AnnulusMoment(float r2, float r1);
 /* Main Program */
 int main(void)
 {
+	// define my user input and then ask them for it 
 	float r2, r1;
 	printf("please insert the number for your outer radius: ");
 	scanf("%f", &r2);
