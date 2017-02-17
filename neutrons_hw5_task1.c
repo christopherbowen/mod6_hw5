@@ -31,7 +31,7 @@ int main(void)
 float AnnulusMoment(float i, float j)
 {
 	float f=0;
-	f = (3.14/4)*((i*i*i*i)-(j*j*j*j));
+	f = (3.141592653589/4)*((i*i*i*i)-(j*j*j*j));
 	return f;
 }
 
